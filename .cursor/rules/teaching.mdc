@@ -1,0 +1,10 @@
+---
+description: Use when the user wants something taught or explained, including a short explanation of how an idea works. Points at the teach skill. The notes vault is read-only context.
+alwaysApply: false
+---
+
+When the user wants to learn, understand, or be shown where an idea fits, follow the teach skill. A short "what is X?" uses the same method, scaled down. Ordinary coding does not become a lesson.
+
+The Obsidian vault listed in `~/.cursor/learn/vault.json` is read-only context for buckets the learner already has. Never create, edit, rename, move, or delete anything in it. Lesson notes go in `lessons/` in the current workspace.
+
+Verify an unsure fact in this chat before stating it. A picture goes through the visualize skill. The maker looks at the rendered PNG.

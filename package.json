@@ -1,0 +1,10 @@
+{
+  "name": "learn",
+  "private": true,
+  "type": "module",
+  "description": "Render scripts for the Cursor teaching system.",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^11.4.2",
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}

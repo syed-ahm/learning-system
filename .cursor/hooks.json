@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "hooks": {
+    "preToolUse": [
+      {
+        "command": "py -3 .cursor/hooks/vault-guard.py",
+        "matcher": "Write|StrReplace|Delete|EditNotebook",
+        "failClosed": true
+      }
+    ],
+    "beforeShellExecution": [
+      {
+        "command": "py -3 .cursor/hooks/vault-guard.py",
+        "failClosed": true
+      }
+    ]
+  }
+}
