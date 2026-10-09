@@ -3,7 +3,7 @@ description: Use when the user wants something taught or explained, including a 
 alwaysApply: false
 ---
 
-When the user wants to learn, understand, or be shown where an idea fits, follow the teach skill. A short "what is X?" uses the same method, scaled down. Ordinary coding does not become a lesson.
+When the user wants to learn, understand, or be shown where an idea fits, follow the teach skill. A lesson runs context, mechanism, judgment, then reconnect. A short "what is X?" uses the same method, scaled down. Ordinary coding does not become a lesson.
 
 The Obsidian vault listed in `~/.cursor/learn/vault.json` is read-only context for buckets the learner already has. Never create, edit, rename, move, or delete anything in it. Lesson notes go in `lessons/` in the current workspace.
 
